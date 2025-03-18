@@ -1,6 +1,6 @@
 Faculdade UNIESP
 Curso: Ciência da Computação
-Disciplina: Tópicos Essenciais em Programação
+Disciplina: Introdução à Programação
 Nome: Vanessa Costa e Silva
 
 Resposta da lista de exercício
@@ -9,4 +9,11 @@ Questão 01
 
 Questão 02
 
-Questão 03
+
+Questão 04
+
+Questão 05
+
+Questão 06
+
+Questão 10
